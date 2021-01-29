@@ -6,6 +6,7 @@ import CountryDetails from './Components/CountryDetails';
 import countries from './countries.json'
 import {Route} from 'react-router-dom'
 
+
 function App() {
   return (
     <div className="App">
